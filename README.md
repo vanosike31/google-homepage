@@ -1,0 +1,1 @@
+This is a fake version of the Google Homepage that I created for The Odin Project. I am doing this to test my HTML and CSS skills. 
