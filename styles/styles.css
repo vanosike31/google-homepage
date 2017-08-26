@@ -1,0 +1,71 @@
+img {
+	display: block;
+	margin: 0 auto;
+    padding: 85px;
+    position: relative;
+    left: 25px;
+    top: 50px;
+
+
+}
+
+input {
+	margin: 0 auto;
+    display: block;
+    position: relative;
+    top: -10px;
+    width: 600px;
+    height: 20px;
+
+
+}
+
+#search {
+
+    position: absolute;
+    left: 500px;
+    top: 300px;
+
+}
+    
+#lucky {
+	position: absolute;
+    left: 650px;
+    top: 300px;
+}
+
+
+.top {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	float: right;
+}
+
+.top li {
+	display: inline;
+	
+
+}
+
+.bottom {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	bottom: -200px;
+	background-color: gray;
+	
+}
+
+.bottom li {
+	float: left;
+	
+}
+
+.bottom li a {
+	display: block;
+	padding: 20px;
+	text-align: center;
+}
+
